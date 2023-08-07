@@ -1,0 +1,10 @@
+luajit/*
+!luajit/src/.gitkeep
+!luajit/dynasm/.gitkeep
+
+*.exe
+*.pdb
+.build
+
+generated.jai
+windows/*
