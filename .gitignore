@@ -4,6 +4,9 @@ luajit/*
 
 *.exe
 *.pdb
+*.dll
+*.exp
+*.lib
 .build
 
 generated.jai
